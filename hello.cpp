@@ -7,6 +7,7 @@ int main(){
     string name;
     cout << "hello world!"<<endl;
     // cout is the object, arrow is operator help to insert content into object
+    cout << "key in your name "<< endl;
     cin >> name;
     cout << "your name is " << name<<endl;
     cout << "ENDED"<<endl;
